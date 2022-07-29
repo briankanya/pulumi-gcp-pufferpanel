@@ -54,7 +54,7 @@ pre-commit = "^2.20.0"
 pytest = "^7.1.2"
 pytest-cov = "^3.0.0"
 recommonmark = "^0.7.1"
-safety = "^1.10.3"
+safety = "^2.1.1"
 sphinx = "^5.0.2"
 types-Flask = "^1.1.6"
 watchdog = {version = "^2.1.9", extras = ["watchmedo"]}
