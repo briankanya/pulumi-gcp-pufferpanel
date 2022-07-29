@@ -55,7 +55,7 @@ pytest = "^7.1.2"
 pytest-cov = "^3.0.0"
 recommonmark = "^0.7.1"
 safety = "^1.10.3"
-sphinx = "^5.0.2"
+sphinx = "^5.1.1"
 types-Flask = "^1.1.6"
 watchdog = {version = "^2.1.9", extras = ["watchmedo"]}
 xdoctest = "^1.0.1"
